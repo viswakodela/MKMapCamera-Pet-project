@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		BDE8EFFA22E3EDCC008EBA59 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE8EFF922E3EDCC008EBA59 /* AppDelegate.swift */; };
 		BDE8EFFC22E3EDCC008EBA59 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE8EFFB22E3EDCC008EBA59 /* SceneDelegate.swift */; };
-		BDE8EFFE22E3EDCC008EBA59 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE8EFFD22E3EDCC008EBA59 /* ViewController.swift */; };
+		BDE8EFFE22E3EDCC008EBA59 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE8EFFD22E3EDCC008EBA59 /* MapViewController.swift */; };
 		BDE8F00122E3EDCC008EBA59 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDE8EFFF22E3EDCC008EBA59 /* Main.storyboard */; };
 		BDE8F00322E3EDCF008EBA59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDE8F00222E3EDCF008EBA59 /* Assets.xcassets */; };
 		BDE8F00622E3EDCF008EBA59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDE8F00422E3EDCF008EBA59 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		BDE8EFF622E3EDCC008EBA59 /* MKMapCamera Pet project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MKMapCamera Pet project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDE8EFF922E3EDCC008EBA59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDE8EFFB22E3EDCC008EBA59 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BDE8EFFD22E3EDCC008EBA59 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BDE8EFFD22E3EDCC008EBA59 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		BDE8F00022E3EDCC008EBA59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BDE8F00222E3EDCF008EBA59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDE8F00522E3EDCF008EBA59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				BDE8EFF922E3EDCC008EBA59 /* AppDelegate.swift */,
 				BDE8EFFB22E3EDCC008EBA59 /* SceneDelegate.swift */,
-				BDE8EFFD22E3EDCC008EBA59 /* ViewController.swift */,
+				BDE8EFFD22E3EDCC008EBA59 /* MapViewController.swift */,
 				BDE8EFFF22E3EDCC008EBA59 /* Main.storyboard */,
 				BDE8F00222E3EDCF008EBA59 /* Assets.xcassets */,
 				BDE8F00422E3EDCF008EBA59 /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDE8EFFE22E3EDCC008EBA59 /* ViewController.swift in Sources */,
+				BDE8EFFE22E3EDCC008EBA59 /* MapViewController.swift in Sources */,
 				BDE8EFFA22E3EDCC008EBA59 /* AppDelegate.swift in Sources */,
 				BDE8EFFC22E3EDCC008EBA59 /* SceneDelegate.swift in Sources */,
 			);
